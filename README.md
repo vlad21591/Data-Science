@@ -1,4 +1,4 @@
-# Machine learning and data science project
+# ML and Data Science Project
 
 ## Machine learning:
 
