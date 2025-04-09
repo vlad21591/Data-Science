@@ -45,16 +45,3 @@ We can see that Random Forest model gets the best results which are:
 Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919
 
 The random forest model will predict with the accuracy of 85.2% and precision of 85% with the given parameters if the subject will be diagnosed a heart condition.
-
-### Acknowledgements for the creation of data:
-Creators:
-Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
-University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
-Donor:
-David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
-
-
-Thank you.
-
